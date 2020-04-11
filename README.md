@@ -9,3 +9,12 @@ This is a Google Colab Notebook for computing hourly ASCE reference ET. Since th
 ### Agrimet_Extraction.ipynb:
 
 This is a Google Colab Notebook for extracting hourly weather data from USBR. This can then be used to compute hourly Reference ET.
+
+
+### NLDAS_Extraction.ipynb:
+
+This is a Google Colab Notebook for extracting hourly weather data from NLDAS. This can then be used to compute hourly Reference ET. 
+
+### Comparison_AgriMet_and_NLDAS:
+
+This is a Google Colab Notebook that compares hourly weather data between NLDAS and AgriMET.
