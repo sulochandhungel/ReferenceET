@@ -13,7 +13,7 @@ This is a Google Colab Notebook for extracting hourly weather data from USBR. Th
 
 ### NLDAS_Extraction.ipynb:
 
-This is a Google Colab Notebook for extracting hourly weather data from NLDAS. This can then be used to compute hourly Reference ET. 
+This is a Google Colab Notebook for extracting hourly weather data from NLDAS. This could then be used to compute hourly Reference ET. This is just extraction and not downscaling.
 
 ### Comparison_AgriMet_and_NLDAS:
 
